@@ -15,6 +15,6 @@ This section contains my write-ups for various Capture The Flag (CTF) challenges
 - **[Hack The Box](./CTF/HackTheBox)**: Practical labs simulating real-world penetration testing scenarios.
 - **[PortSwigger Web Security Academy](./CTF/PortSwigger)**: Labs focused on mastering Burp Suite for web application security testing.
 
-## Tools & Technologies
-- **Tools**: Burp Suite, Kali Linux, SQLMAP
+## Proficiency
+- **Tools**: Burp Suite, SQLMap, Kali Linux
 - **Platforms**: TryHackMe, Hack The Box, PortSwigger Web Security Academy

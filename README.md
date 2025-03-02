@@ -5,8 +5,8 @@ Welcome to my cybersecurity portfolio! This repository showcases my skills and p
 ## Certifications
 - **Burp Suite Certified Practitioner**  
   *Issued by*: PortSwigger  
-  *Certification Date*: 02/2025 - 02-2031
-  *Verification*: [Available Upon Request]
+  *Certification Date*: 02/2025 - 02-2031  
+  *Verification*: [Available Upon Request]  
 
 ## CTF Write-Ups
 This section contains my write-ups for various Capture The Flag (CTF) challenges and labs completed on well-known platforms, showcasing my problem-solving skills and expertise in security testing.

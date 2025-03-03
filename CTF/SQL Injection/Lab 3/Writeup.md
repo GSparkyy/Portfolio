@@ -6,7 +6,7 @@
 ---
 
 ## Objective  
-Utilize an input field vulnerable to SQL Injection to extract data from the columns "username" and "password" in the "users" table.
+Utilize an input field vulnerable to SQL Injection to extract user login credentials from the given columns "username" and "password" in the "users" table.
 
 ---
 

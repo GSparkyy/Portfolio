@@ -22,9 +22,9 @@ Exploit the SQL injection vulnerability to log in as the "administrator" user.
   Identified two input fields (Username and Password) on the login page that accept user input. No additional inputs or interactive elements were available.  
 
 - **Testing Approach:**  
-  1. Tested the Username field with a single quotation mark (`'`) and observed an SQL-related error message.  
-  2. Entered two quotation marks (`''`) and received "Invalid username or password."  
-  3. These behaviors suggested the username field was processing user input directly within an SQL query, indicating a vulnerability.
+  - Tested the Username field with a single quotation mark (`'`) and observed an SQL-related error message.  
+  Entered two quotation marks (`''`) and received "Invalid username or password."  
+  These behaviors suggested the username field was processing user input directly within an SQL query, indicating a vulnerability.
 
 ---
 

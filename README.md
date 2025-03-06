@@ -11,7 +11,7 @@ Welcome to my cybersecurity portfolio! This repository showcases my skills and p
 ## CTF Write-Ups
 This section contains my write-ups for various Capture The Flag (CTF) challenges and labs completed on well-known platforms, showcasing my problem-solving skills and expertise in security testing.
 
-- **[CTF](./CTF)**: Simulated real world challenges focused on web application vulnerabilities, system exploitation, and more.
+- **[Vulnerability Labs](./Vulnerability_Labs)**: Simulated real world challenges focused on web application vulnerabilities, system exploitation, and more.
 
 ## Proficiency
 - **Tools**: Burp Suite, SQLMap, Kali Linux

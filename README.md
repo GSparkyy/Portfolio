@@ -29,7 +29,7 @@ This section contains write-ups for hands-on labs completed. Each lab showcases 
 ### Covered Vulnerability Categories:
 
 - **Authentication Bypass**
-  - [Lab 1](./Vulnerability_Labs/Authentication/Lab1)
+  - [Lab 1](./Vulnerability_Labs/Authentication/Lab_1)
   - [Lab 2](./Vulnerability_Labs/Authentication/Lab2)
 
 - **Cross-Site Request Forgery (CSRF)**

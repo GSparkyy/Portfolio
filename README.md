@@ -10,12 +10,13 @@ Welcome to my cybersecurity portfolio! This repository highlights my hands-on ex
   *Issued by*: CompTIA  
   *Credential ID*: E99GQQC50MR4KCPJ  
   *Issued*: June 2025 | *Expires*: June 2028  
-  [Show Credential](https://www.credly.com/badges/e99gqqc50mr4kcpj)
+  [Show Credential](https://www.certmetrics.com/comptia/public/verification.aspx/)
 
 - **Burp Suite Certified Practitioner (BCSP)**  
   *Issued by*: PortSwigger  
   *Token*: 680E3FFBA989140D  
-  *Issued*: February 2025 | *Expires*: February 2031  
+  *Issued*: February 2025 | *Expires*: February 2031
+  [Show_Credential](https://portswigger.net/web-security/e/c/680e3ffba989140d)
 
 ---
 

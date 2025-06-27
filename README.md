@@ -21,27 +21,36 @@ Welcome to my cybersecurity portfolio! This repository highlights my hands-on ex
 
 ## 🧪 Vulnerability Write-Ups
 
-This section contains write-ups for labs completed on the PortSwigger Web Security Academy. Each lab demonstrates understanding of real-world vulnerabilities, manual exploitation, and secure development principles.
+This section includes detailed write-ups of simulated web application vulnerabilities from PortSwigger Web Security Academy labs. Each lab demonstrates manual exploitation using Burp Suite, along with remediation guidance.
 
 📂 **[Vulnerability Labs](./Vulnerability_Labs)**
 
 ### Covered Categories:
 
 - **Authentication Bypass**
-  - [Lab 1 – Writeup](./Vulnerability_Labs/Authentication/Lab%201/Writeup.md)
+  - [Lab 1](./Vulnerability_Labs/Authentication/Lab%201/Writeup.md)
+  - [Lab 2](./Vulnerability_Labs/Authentication/Lab%202/Writeup.md)
 
 - **Cross-Site Request Forgery (CSRF)**
-  - [Lab 1](./Vulnerability_Labs/CSRF/Lab%201/Writeup.md)
-  - [Lab 2](./Vulnerability_Labs/CSRF/Lab%202/Writeup.md)
+  - [Lab 1](./Vulnerability_Labs/CSRF%20(Cross-Site%20request%20forgery)/Lab%201/Writeup.md)
+  - [Lab 2](./Vulnerability_Labs/CSRF%20(Cross-Site%20request%20forgery)/Lab%202/Writeup.md)
+
+- **OS Command Injection**
+  - [Lab 1](./Vulnerability_Labs/OS%20Command%20Injection/Lab%201/Writeup.md)
+  - [Lab 2](./Vulnerability_Labs/OS%20Command%20Injection/Lab%202/Writeup.md)
 
 - **SQL Injection**
-  - [Lab 1](./Vulnerability_Labs/SQL_Injection/Lab%201/Writeup.md)
-  - [Lab 2](./Vulnerability_Labs/SQL_Injection/Lab%202/Writeup.md)
-  - [Lab 3](./Vulnerability_Labs/SQL_Injection/Lab%203/Writeup.md)
+  - [Lab 1](./Vulnerability_Labs/SQL%20Injection/Lab%201/Writeup.md)
+  - [Lab 2](./Vulnerability_Labs/SQL%20Injection/Lab%202/Writeup.md)
+  - [Lab 3](./Vulnerability_Labs/SQL%20Injection/Lab%203/Writeup.md)
+
+- **Server-Side Request Forgery (SSRF)**
+  - [Lab 1](./Vulnerability_Labs/SSRF%20(Server%20side%20request%20forgery)/Lab%201/Writeup.md)
+  - [Lab 2](./Vulnerability_Labs/SSRF%20(Server%20side%20request%20forgery)/Lab%202/Writeup.md)
 
 - **Cross-Site Scripting (XSS)**
-  - [Reflected XSS](./Vulnerability_Labs/XSS/Lab%201/Writeup.md)
-  - [Stored DOM-Based XSS](./Vulnerability_Labs/XSS/Lab%202/Writeup.md)
+  - [Lab 1 - Reflected](./Vulnerability_Labs/XSS/Lab%201%20(Reflected)/Writeup.md)
+  - [Lab 2 - Stored DOM-Based](./Vulnerability_Labs/XSS/Lab%202%20(Stored%20DOM)/Writeup.md)
 
 ---
 

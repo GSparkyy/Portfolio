@@ -21,43 +21,27 @@ Welcome to my cybersecurity portfolio! This repository highlights my hands-on ex
 
 ## 🧪 Vulnerability Write-Ups
 
-This section contains write-ups for hands-on labs completed. Each lab showcases my ability to identify vulnerabilities, understand exploitation methods, and provide mitigation insights.
+This section contains write-ups for labs completed on the PortSwigger Web Security Academy. Each lab demonstrates understanding of real-world vulnerabilities, manual exploitation, and secure development principles.
 
-📂 **[Vulnerability Labs](./Vulnerability_Labs)**  
-> Browse categorized lab folders, each containing screenshots, summaries, and technical steps.
+📂 **[Vulnerability Labs](./Vulnerability_Labs)**
 
-### Covered Vulnerability Categories:
+### Covered Categories:
 
 - **Authentication Bypass**
-  - [Lab 1](./Vulnerability_Labs/Authentication/Lab_1)
-  - [Lab 2](./Vulnerability_Labs/Authentication/Lab2)
+  - [Lab 1 – Writeup](./Vulnerability_Labs/Authentication/Lab%201/Writeup.md)
 
 - **Cross-Site Request Forgery (CSRF)**
-  - [Lab 1](./Vulnerability_Labs/CSRF/Lab1)
-  - [Lab 2](./Vulnerability_Labs/CSRF/Lab2)
-
-- **OS Command Injection**
-  - [Lab 1](./Vulnerability_Labs/OS_Command_Injection/Lab1)
-  - [Lab 2](./Vulnerability_Labs/OS_Command_Injection/Lab2)
+  - [Lab 1](./Vulnerability_Labs/CSRF/Lab%201/Writeup.md)
+  - [Lab 2](./Vulnerability_Labs/CSRF/Lab%202/Writeup.md)
 
 - **SQL Injection**
-  - [Lab 1](./Vulnerability_Labs/SQL_Injection/Lab1)
-  - [Lab 2](./Vulnerability_Labs/SQL_Injection/Lab2)
-  - [Lab 3](./Vulnerability_Labs/SQL_Injection/Lab3)
-
-- **Server-Side Request Forgery (SSRF)**
-  - [Lab 1](./Vulnerability_Labs/SSRF/Lab1)
-  - [Lab 2](./Vulnerability_Labs/SSRF/Lab2)
+  - [Lab 1](./Vulnerability_Labs/SQL_Injection/Lab%201/Writeup.md)
+  - [Lab 2](./Vulnerability_Labs/SQL_Injection/Lab%202/Writeup.md)
+  - [Lab 3](./Vulnerability_Labs/SQL_Injection/Lab%203/Writeup.md)
 
 - **Cross-Site Scripting (XSS)**
-  - [Reflected XSS](./Vulnerability_Labs/XSS/Lab1)
-  - [Stored DOM-Based XSS](./Vulnerability_Labs/XSS/Lab2)
-
-Each folder includes:
-- Summary of the vulnerability
-- Exploitation steps with Burp Suite
-- Screenshots (where applicable)
-- Remediation strategies
+  - [Reflected XSS](./Vulnerability_Labs/XSS/Lab%201/Writeup.md)
+  - [Stored DOM-Based XSS](./Vulnerability_Labs/XSS/Lab%202/Writeup.md)
 
 ---
 

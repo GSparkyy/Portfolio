@@ -16,7 +16,7 @@ Welcome to my cybersecurity portfolio! This repository highlights my hands-on ex
   *Issued by*: PortSwigger  
   *Token*: 680E3FFBA989140D  
   *Issued*: February 2025 | *Expires*: February 2031  
-  [Show_Credential](https://portswigger.net/web-security/e/c/680e3ffba989140d)
+  [Show Credential](https://portswigger.net/web-security/e/c/680e3ffba989140d)
 
 ---
 

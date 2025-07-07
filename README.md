@@ -28,7 +28,7 @@ Welcome! This repository showcases my hands-on experience in cybersecurity funda
 
 Hands-on labs and simulations aligned with Security+ domains:
 
-- 
+- [Server Hardening Home-Lab](https://github.com/GSparkyy/Portfolio/blob/main/Server%20Securtiy/ubuntu-security-baseline.md)
 
 ---
 

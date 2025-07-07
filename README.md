@@ -1,6 +1,10 @@
-# 🛡️ Cybersecurity Portfolio
+# 🔧 Security+ & IT Support Projects Portfolio
 
-Welcome to my cybersecurity portfolio! This repository highlights my hands-on experience with web application security testing using platforms like PortSwigger Web Security Academy. It showcases my ability to identify, exploit, and explain common vulnerabilities aligned with the OWASP Top 10 — with a focus on Burp Suite and manual testing techniques.
+Welcome! This repository showcases my hands-on experience in cybersecurity fundamentals, vulnerability testing, and IT support practices. Through labs, simulations, and write-ups, I demonstrate practical knowledge aligned with CompTIA Security+ and Burp Suite Certified Practitioner domains. Projects span web application testing, incident response exercises, and basic network troubleshooting.
+
+---
+
+> ✅ *Actively seeking entry-level Helpdesk, SOC Analyst, and Technical Support roles (on-site or remote).*
 
 ---
 
@@ -17,6 +21,14 @@ Welcome to my cybersecurity portfolio! This repository highlights my hands-on ex
   *Token*: 680E3FFBA989140D  
   *Issued*: February 2025 | *Expires*: February 2031  
   [Show Credential](https://portswigger.net/web-security/e/c/680e3ffba989140d)
+
+---
+
+## 🔐 Security+ Projects
+
+Hands-on labs and simulations aligned with Security+ domains:
+
+- 
 
 ---
 
@@ -57,8 +69,11 @@ This section includes detailed write-ups of simulated web application vulnerabil
 
 ## 🛠️ Tools & Technical Proficiency
 
-- **Security Tools**: Burp Suite, SQLMap  
+- **Security Tools**: Burp Suite, SQLMap, Wireshark, Nmap  
+- **IT Support Tools**: Active Directory (familiar), ServiceNow, Zendesk  
+- **Scripting & Automation**: Bash (beginner), Python (learning)  
 - **Methodology**: Manual web exploitation, OWASP Top 10  
+- **Design Tools**: Adobe Photoshop, Illustrator, AutoCAD  
 - **Platforms Used**:
   - [PortSwigger Web Security Academy](https://portswigger.net/web-security)  
   - [TryHackMe](https://tryhackme.com/) *(basic exposure)*  
@@ -66,5 +81,7 @@ This section includes detailed write-ups of simulated web application vulnerabil
 
 ---
 
+## 📬 Contact
 
-> ✅ *Actively seeking entry-level cybersecurity or IT support roles — including remote SOC Analyst, Vulnerability Analyst, and Helpdesk opportunities.*
+- 📧 gsparkyy.repo@gmail.com
+
